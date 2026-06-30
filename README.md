@@ -27,4 +27,6 @@ A real-time multi-person classroom monitoring system using:
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
+streamlit run app.py
+streamlit run app1.py
 streamlit run app2.py
